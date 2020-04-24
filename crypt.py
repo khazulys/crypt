@@ -1,3 +1,7 @@
+#code by khazul yussery shadiq
+#mail khazulyusserys@gmail.com
+#whatsapp +601136956558
+
 import os
 import time
 import fnmatch
